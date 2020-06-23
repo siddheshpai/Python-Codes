@@ -1,0 +1,7 @@
+import os
+import numpy as np
+import pylab
+import scipy.optimize
+import matplotlib.pyplot as plt
+from scipy.misc import electrocardiogram 
+from scipy.signal import find_peaks
